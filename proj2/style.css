@@ -1,0 +1,28 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+@import url('https://fonts.googleapis.com/css2?family=Chivo+Mono&display=swap');
+body{
+    font-family: 'Chivo Mono', monospace;
+}
+.container{
+    width: 95%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.hex-color{
+    align-items: center;
+    text-align: center;
+}
+h1,h2{
+    padding-top: 50px;
+}
+button{
+    margin-top: 20px;
+    padding: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
